@@ -2,8 +2,8 @@
 <h1 align="center" >✨ Hi, I'm Guido Cerioni ✨</h1>
 
 - 🌱 I’m currently learning MERN Stack.
-
-### Languajes and Tools
+<br>
+## Languajes and Tools
 
 <img align="left" title = "Linux" alt="Linux" width="30px" src="https://img.icons8.com/color/30/000000/linux.png"/>
 <img align="left" title = "HTML5" alt="HTML5" width="30px" src="https://img.icons8.com/color/30/000000/html-5.png"/>
@@ -17,8 +17,7 @@
 <img align="left" title = "Git" alt="Git" width="30px" src="https://img.icons8.com/color/30/000000/git.png"/>
 <img align="left" title = "GitHub" alt="GitHub" width="30px" src="https://img.icons8.com/color/30/000000/github.png"/>
 <img align="left" title = "Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/>
-<br>
+<br><br>
 <h2> Connect with me 📩 </h2>
 
-<img align="left" title="Linkedin" alt="guido" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>[Linkedin](www.linkedin.com/in/guido-cerioni
-)
+[<img align="left" title="Linkedin" alt="guido" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][Linkedin]
