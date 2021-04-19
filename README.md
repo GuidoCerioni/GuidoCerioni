@@ -21,3 +21,10 @@
 <h2> Connect with me 📩 </h2>
 
 [<img align="left" title="LinkedIn" alt="GuidoCerioni | LinkedIn" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][Linkedin]
+
+
+
+
+
+
+[Linkedin]: https://www.linkedin.com/in/guido-cerioni/
