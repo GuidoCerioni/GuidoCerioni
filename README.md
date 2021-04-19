@@ -17,3 +17,8 @@
 <img align="left" title = "Git" alt="Git" width="30px" src="https://img.icons8.com/color/30/000000/git.png"/>
 <img align="left" title = "GitHub" alt="GitHub" width="30px" src="https://img.icons8.com/color/30/000000/github.png"/>
 <img align="left" title = "Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/>
+
+### Contact
+
+<img align="left" title="Linkedin" alt="guido" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>[Linkedin](www.linkedin.com/in/guido-cerioni
+)
