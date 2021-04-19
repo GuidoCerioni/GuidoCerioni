@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning MERN Stack.
 <br>
-## Languajes and Tools
+<h2> Languajes and Tools </h2>
 
 <img align="left" title = "Linux" alt="Linux" width="30px" src="https://img.icons8.com/color/30/000000/linux.png"/>
 <img align="left" title = "HTML5" alt="HTML5" width="30px" src="https://img.icons8.com/color/30/000000/html-5.png"/>
@@ -20,4 +20,4 @@
 <br><br>
 <h2> Connect with me 📩 </h2>
 
-[<img align="left" title="Linkedin" alt="guido" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][Linkedin]
+[<img align="left" title="LinkedIn" alt="GuidoCerioni | LinkedIn" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][Linkedin]
