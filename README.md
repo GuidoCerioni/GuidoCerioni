@@ -23,10 +23,10 @@
 [<img align="left" title="LinkedIn" alt="GuidoCerioni | LinkedIn" width="40px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][Linkedin]
 [<img align="left" title="Gmail" alt="GuidoCerioni | Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>][Gmail]
 
-
+<a href ="mailto:guidocerioni98@gmail.com"> a </a>
 
 
 
 
 [Linkedin]: https://www.linkedin.com/in/guido-cerioni/
-[Gmail]: "mailto:guidocerioni98@gmail.com"
+
