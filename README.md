@@ -1,7 +1,7 @@
 
 <h1 align="center" >✨ Hi, I'm Guido Cerioni and I'm a Full Stack Web Developer ✨</h1>
 <!--
-**GuidoCerioni/GuidoCerioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GuidoCerioni/GuidoCerioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 Here are some ideas to get you started:
 
