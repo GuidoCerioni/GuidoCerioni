@@ -1,5 +1,5 @@
 
-<h1 align="center" >✨ Hi, I'm Guido Cerioni and I'm a Full Stack Web Developer ✨</h1>
+<h1 align="center" >✨ Hi, I'm Guido Cerioni ✨</h1>
 
 - 🌱 I’m currently learning MERN Stack.
 
