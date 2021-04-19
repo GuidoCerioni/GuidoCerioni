@@ -12,6 +12,7 @@
 <img align="left" title = "React" alt="React" width="30px" src="https://img.icons8.com/office/30/000000/react.png"/>
 <img align="left" title = "C" alt="C" width="30px" src="https://img.icons8.com/color/30/000000/c-programming.png"/>
 <img align="left" title = "Node.Js" alt="Node.Js" width="30px" src="https://img.icons8.com/color/30/000000/nodejs.png"/>
+<img align="left" title = "npm" alt="npm" width="30px" src="https://img.icons8.com/color/30/000000/npm.png"/>
 <img align="left" title = "MongoDB" alt="MongoDB" width="30px" src="https://img.icons8.com/color/30/000000/mongodb.png"/>
 <img align="left" title = "MySQL" alt="MySQL" width="30px" src="https://img.icons8.com/color/30/000000/mysql.png"/>
 <img align="left" title = "Git" alt="Git" width="30px" src="https://img.icons8.com/color/30/000000/git.png"/>
@@ -20,13 +21,9 @@
 <br><br>
 <h2> Connect with me 📩 </h2>
 
-[<img align="left" title="LinkedIn" alt="GuidoCerioni | LinkedIn" width="40px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>][Linkedin]
-<a href ="mailto:guidocerioni98@gmail.com"><img align="left" title="Gmail" alt="GuidoCerioni | Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/> </a>
-
- 
-
-
-
-
-[Linkedin]: https://www.linkedin.com/in/guido-cerioni/
-
+<a href="https://www.linkedin.com/in/guido-cerioni/">
+ <img align="left" title="LinkedIn" alt="GuidoCerioni | LinkedIn" width="40px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>
+</a> 
+<a href ="mailto:guidocerioni98@gmail.com">
+ <img align="left" title="Gmail" alt="GuidoCerioni | Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
+</a>
