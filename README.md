@@ -10,7 +10,7 @@
 <img align="left" title = "React" alt="React" width="30px" src="https://img.icons8.com/office/30/000000/react.png"/>
 <img align="left" title = "Node.Js" alt="Node.Js" width="30px" src="https://img.icons8.com/color/30/000000/nodejs.png"/>
 <img align="left" title = "npm" alt="npm" width="30px" src="https://img.icons8.com/color/30/000000/npm.png"/>
-<img align="left" title = "npm" alt="npm" width="30px" src="https://img.icons8.com/color/30/000000/express.png"/>
+<img align="left" title = "Express" alt="Express" width="30px" src="https://img.icons8.com/color/30/000000/express.png"/>
 <img align="left" title = "MongoDB" alt="MongoDB" width="30px" src="https://img.icons8.com/color/30/000000/mongodb.png"/>
 <img align="left" title = "MySQL" alt="MySQL" width="30px" src="https://img.icons8.com/color/30/000000/mysql.png"/>
 <img align="left" title = "Git" alt="Git" width="30px" src="https://img.icons8.com/color/30/000000/git.png"/>
