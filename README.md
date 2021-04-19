@@ -29,4 +29,4 @@
 
 
 [Linkedin]: https://www.linkedin.com/in/guido-cerioni/
-[Gmail]: <a href="mailto:guidocerioni98@gmail.com" > </a>
+[Gmail]: "mailto:guidocerioni98@gmail.com"
