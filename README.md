@@ -19,8 +19,8 @@
 <br><br>
 <h2> Connect with me 📩 </h2>
 <a href="https://www.linkedin.com/in/guido-cerioni/">
- <img align="left" title="LinkedIn" alt="GuidoCerioni | LinkedIn" width="40px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>
+ <img align="left" title="LinkedIn" alt="GuidoCerioni | LinkedIn" width="30px" src="https://img.icons8.com/color/30/000000/linkedin.png"/>
 </a> 
 <a href ="mailto:guidocerioni98@gmail.com">
- <img align="left" title="Gmail" alt="GuidoCerioni | Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
+ <img align="left" title="Gmail" alt="GuidoCerioni | Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
 </a>
