@@ -1,6 +1,6 @@
 
 <h1 align="center" >✨ Hi, I'm Guido Cerioni ✨</h1>
-🌱 I’m currently learning MERN Stack.
+🌱🌱🌱🌱🌱🌱🌱
 <br>
 <h2> Languajes and Tools </h2>
 <img align="left" title = "Linux" alt="Linux" width="30px" src="https://img.icons8.com/color/30/000000/linux.png"/>
